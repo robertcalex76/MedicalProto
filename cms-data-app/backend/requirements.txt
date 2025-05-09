@@ -1,0 +1,7 @@
+FastAPI
+SQLAlchemy
+pandas
+requests
+asyncpg
+uvicorn
+python-dotenv
